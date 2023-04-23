@@ -67,7 +67,7 @@ jobs:
         env:
           NEXT_PUBLIC_TINA_CLIENT_ID: ${{ secrets.NEXT_PUBLIC_TINA_CLIENT_ID }}
           NEXT_PUBLIC_TINA_BRANCH: ${{ secrets.NEXT_PUBLIC_TINA_BRANCH }}
-          BRANCH: ${{ secrets.BRANCH }}
+          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
         run: npx tinacms build
       - name: Build with Next.js
         run: ${{ steps.set-package-manager.outputs.runner }} next build
