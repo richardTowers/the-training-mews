@@ -39,8 +39,19 @@ nav a {
 }
 
 /* Hero section styles */
-.hero img {
-  width: 100%;
+.hero {
+  position: relative;
+  min-height: 30rem;
+  background-size: cover;
+  background-position: center;
+  background-image: url('/uploads/brett-jordan-U2q73PfHFpM-unsplash.jpg');
+}
+
+.hero h1 {
+  color: white;
+  text-shadow: 2px 2px 4px black;
+  font-size: 10rem;
+  padding: 1rem;
 }
 
 /* Content block styles */

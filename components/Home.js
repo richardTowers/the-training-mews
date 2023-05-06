@@ -16,7 +16,7 @@ export const Home = (props) => {
       </header>
       <main>
         <section class="hero">
-          <img src="images/hero-image.jpg" alt="Hero Image"/>
+          <h1>The Training Mews</h1>
         </section>
         <section class="content">
           <div class="block">
