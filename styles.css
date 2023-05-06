@@ -29,7 +29,12 @@ body {
  * © 2023 MyFonts Inc. */
 @font-face {
   font-family: "LustraTextMedium";
-  src: url('/fonts/LustraTextMedium/font.woff2') format('woff2'), url('/fonts/LustraTextMedium/font.woff') format('woff');
+  src: url('/fonts/LustraTextMedium/font-COLR.woff2') format('woff2'), url('/fonts/LustraTextMedium/font.woff') format('woff');
+}
+
+@font-palette-values --lustra-white {
+  font-family: LustraTextMedium;
+  override-colors: 0 white, 1 white;
 }
 
 /* Top menu bar styles */
@@ -51,6 +56,7 @@ nav li {
   margin-right: 20px;
   vertical-align: middle;
   font-family: LustraTextMedium, sans-serif;
+  font-palette: --lustra-white;
   font-size: 1.4rem;
 }
 
@@ -74,11 +80,24 @@ nav a {
 
 .hero h1 {
   color: white;
-  text-shadow: 2px 2px 4px black;
-  font-size: 10rem;
+  font-size: 8rem;
   padding: 1rem;
+  padding-top: 2rem;
   font-family: LustraTextMedium, sans-serif;
   text-transform: uppercase;
+  font-palette: --lustra-white;
+  font-weight: 100;
+  text-shadow: 1px 1px 4px rgba(256, 256, 256, 0.5);
+}
+@media (min-width: 1540px) {
+  .hero h1 {
+    padding-top: 5rem;
+  }
+}
+@media (max-width: 670px) {
+  .hero h1 {
+    font-size: 5rem;
+  }
 }
 
 /* Content block styles */
@@ -94,6 +113,7 @@ nav a {
 
 .block h2 {
   font-family: LustraTextMedium, sans-serif;
+  font-palette: --lustra-white;
   font-size: 24px;
   margin-bottom: 10px;
 }
