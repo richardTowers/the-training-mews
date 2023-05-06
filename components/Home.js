@@ -7,6 +7,7 @@ export const Home = (props) => {
       <header>
         <nav>
           <ul>
+            <li><img width="100px" height="100px" src="/uploads/the-training-mews-300x300.png"/></li>
             <li><Link href="/"><a>Home</a></Link></li>
             <li><Link href="/our-trainers"><a>Our Trainers</a></Link></li>
             <li><Link href="/our-equipment"><a>Our Equipment</a></Link></li>

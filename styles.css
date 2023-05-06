@@ -6,16 +6,38 @@
 }
 
 body {
-  font-family: sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
 
+/* Fonts */
+/**
+ * @license
+ * MyFonts Webfont Build ID 3867246, 2020-12-16T11:57:38-0500
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: Lustra Text Medium by Grype
+ * URL: https://www.myfonts.com/products/medium-lustra-text-307539
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * © 2023 MyFonts Inc. */
+@font-face {
+  font-family: "LustraTextMedium";
+  src: url('/fonts/LustraTextMedium/font.woff2') format('woff2'), url('/fonts/LustraTextMedium/font.woff') format('woff');
+}
+
 /* Top menu bar styles */
 header {
-  background-color: #333;
+  background: linear-gradient(to bottom right, #8dacde, #5177b7);
   color: #fff;
   padding: 10px;
+  border-bottom: 2px solid #5177b7;
 }
 
 nav ul {
@@ -27,6 +49,9 @@ nav ul {
 nav li {
   display: inline-block;
   margin-right: 20px;
+  vertical-align: middle;
+  font-family: LustraTextMedium, sans-serif;
+  font-size: 1.4rem;
 }
 
 nav li:last-child {
@@ -52,6 +77,8 @@ nav a {
   text-shadow: 2px 2px 4px black;
   font-size: 10rem;
   padding: 1rem;
+  font-family: LustraTextMedium, sans-serif;
+  text-transform: uppercase;
 }
 
 /* Content block styles */
@@ -66,6 +93,7 @@ nav a {
 }
 
 .block h2 {
+  font-family: LustraTextMedium, sans-serif;
   font-size: 24px;
   margin-bottom: 10px;
 }
