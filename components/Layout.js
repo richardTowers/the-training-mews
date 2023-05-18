@@ -26,7 +26,17 @@ export const Layout = (props) => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <body>
-      {props.children}
+        <header>
+          <nav>
+            <ul>
+              <li><img width="100px" height="100px" src="/uploads/the-training-mews-300x300.png"/></li>
+              <li><Link href="/"><a>Home</a></Link></li>
+              <li><Link href="/prices"><a>Prices</a></Link></li>
+              <li><Link href="/contact"><a>Contact</a></Link></li>
+            </ul>
+          </nav>
+        </header>
+        {props.children}
       </body>
     </>
   )

@@ -11,6 +11,11 @@ body {
   line-height: 1.5;
 }
 
+p {
+  padding-bottom: 1rem;
+}
+
+
 /* Fonts */
 /**
  * @license
