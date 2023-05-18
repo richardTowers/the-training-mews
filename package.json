@@ -1,0 +1,14 @@
+{
+  "name": "the-training-mews",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@metalsmith/layouts": "^2.7.0",
+    "@metalsmith/markdown": "^1.9.2",
+    "jstransformer-handlebars": "^1.2.0",
+    "metalsmith": "^2.5.1"
+  },
+  "main": "index.js"
+}
