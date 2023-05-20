@@ -1,3 +1,6 @@
+:root {
+    --bs-heading-color: #000;
+}
 /* Fonts */
 /**
  * @license
@@ -26,4 +29,26 @@ h1, header span  {
 
 h2 {
   font-family: "LustraTextMedium";
+}
+
+.homepage-background-image {
+    position: relative;
+    background-image: url('/images/the-training-mews-black-and-white.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 25%;
+    background-size: cover;
+}
+.homepage-background-image::before {
+    background: linear-gradient(transparent, white);
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+.homepage-background-image-content {
+    position: relative;
 }
