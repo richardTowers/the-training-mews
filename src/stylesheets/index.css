@@ -31,6 +31,10 @@ h2 {
   font-family: "LustraTextMedium";
 }
 
+.pricing-card-title {
+  font-family: "LustraTextMedium";
+}
+
 .homepage-background-image {
     position: relative;
     background-image: url('/images/the-training-mews-black-and-white.jpg');
