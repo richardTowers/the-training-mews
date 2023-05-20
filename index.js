@@ -8,6 +8,12 @@ const Metalsmith  = require('metalsmith'),
 // and strips the frontmatter from each of our
 // source files and passes it on to the plugins.
 Metalsmith(__dirname)
+    // Global settings
+    .metadata({
+        description: 'The Training Mews is a boutique gym in Kensington, London that offers high-quality equipment and personal training to an exclusive group of clients.',
+        keywords: 'The Training Mews, gym, personal training, Kensington, London',
+        canonicalUrl: 'https://www.thetrainingmews.co.uk',
+    })
 
     // Use @metalsmith/markdown to convert
     // our source files' content from markdown
