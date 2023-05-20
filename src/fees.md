@@ -3,6 +3,8 @@ title: The Training Mews - Fees
 layout: default.hbs
 ---
 
+<div class="mb-5"></div>
+
 ## Fees
 
 For anyone wishing to train with their trainer at the Training Mews there’s a £85 monthly fee which includes access to an exclusive and private training studio which includes provision of shower facilities, towels, water, tea and coffee. 

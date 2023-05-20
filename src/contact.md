@@ -3,6 +3,8 @@ title: The Training Mews - Contact
 layout: default.hbs
 ---
 
+<div class="mb-5"></div>
+
 ## Contact
 
 For any questions about finding a trainer to train with, get in touch <a href="mailto:admin@thetrainingmews.co.uk">admin@thetrainingmews.co.uk</a>.
