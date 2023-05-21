@@ -38,11 +38,11 @@ Please read these terms and conditions carefully before using our gym space rent
    1. Clients and trainers acknowledge and agree that any intellectual property rights, including but not limited to trademarks, logos, or copyrighted materials associated with The Training Mews, shall remain the sole property of The Training Mews.
 1. Governing Law and Jurisdiction
    1. These terms and conditions shall be governed by and construed in accordance with the laws of England. Any disputes arising out of or relating to these terms and conditions shall be subject to the exclusive jurisdiction of the courts of England.
-1. Modifications
-   1. We reserve the right to modify or amend these terms and conditions at any time. Any changes will be effective immediately upon posting on our website or notifying clients and trainers through other reasonable means.
 1. Enquires or Complaints 
    1. If you have any enquiries or complaints email admin@thetrainingmews.co.uk
 1. Pricing
    1. Information displayed on the site or in our studio as to pricing and availability is subject to change by The Training Mews without notice.
 1. Cookies
-  1. We do not use cookies or any other forms of tracking on www.thetrainingmews.co.uk
+   1. We do not use cookies or any other forms of tracking on www.thetrainingmews.co.uk
+1. Modifications
+   1. We reserve the right to modify or amend these terms and conditions at any time. Any changes will be effective immediately upon posting on our website or notifying clients and trainers through other reasonable means.
