@@ -16,7 +16,7 @@ The Training Mews<br>
 London<br>
 SW7 4DE
 
-We’re located a short, 3 minute walk from Gloucester Road Station. 
+We’re located a 3 minute walk from Gloucester Road Station. 
 
 <div class="row google-maps-embeds">
   <iframe
