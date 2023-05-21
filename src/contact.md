@@ -7,7 +7,7 @@ layout: default.hbs
 
 ## Contact
 
-For any questions about finding a trainer to train with, get in touch <a href="mailto:admin@thetrainingmews.co.uk">admin@thetrainingmews.co.uk</a>.
+For any questions about finding a trainer to train with, get in touch admin@thetrainingmews.co.uk.
 
 ## Where to find us
 

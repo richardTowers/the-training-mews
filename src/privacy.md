@@ -11,4 +11,4 @@ The Training Mews is committed to protecting and respecting your privacy. We col
 
 The Training Mews will keep your personal information secure and will take reasonable precautions to prevent unauthorized access, use or disclosure. We will retain your personal information for only as long as necessary to fulfil the purposes for which it was collected.
 
-You have the right to access, modify or delete the personal information we hold about you. Please contact us at <a href="mailto:admin@thetrainingmews.co.uk">admin@thetrainingmews.co.uk</a> if you have any questions or concerns about how we collect and use your personal information.
+You have the right to access, modify or delete the personal information we hold about you. Please contact us at admin@thetrainingmews.co.uk if you have any questions or concerns about how we collect and use your personal information.
