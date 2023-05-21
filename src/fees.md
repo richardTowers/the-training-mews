@@ -22,7 +22,7 @@ layout: default.hbs
           <li>Fresh towels</li>
           <li>Tea and coffee</li>
         </ul>
-        <a href="mailto:admin@thetrainigmews.co.uk" class="w-100 btn btn-lg btn-primary">Contact us</a>
+        <a href="mailto:admin@thetrainingmews.co.uk" class="w-100 btn btn-lg btn-primary">Contact us</a>
       </div>
     </div>
   </div>
