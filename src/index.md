@@ -12,10 +12,12 @@ layout: default.hbs
 
 ## About us
 
-Welcome to The Training Mews, a new boutique gym located in the heart of Kensington, London.
+Welcome to The Training Mews, a new boutique personal training studio located in the heart of Kensington, London
 
-We pride ourselves on offering exceptional personal training and high-quality gym equipment to a select group of clients to train in privacy with their personal trainer. 
+We pride ourselves on offering exceptional personal training with the highest of quality gym equipment to a select group of clients. In addition to allowing high level personal trainers to rent the extremely exclusive and private space with their clients.
 
-The founding trainers Paul Bowman and Lawrence Xavier Davis are highly qualified and experienced professionals who are dedicated to helping you achieve your fitness goals. 
+We created this space to meet the ever-growing demand for a space where personal trainers can train their clients which is of a high standard.
+
+The founding trainers Paul Bowman and Lawrence Xavier Davis are highly qualified and experienced professionals who are dedicated to helping you achieve your fitness goals.
 
 They will work with you to create a personalised training plan that is tailored to your needs and fitness level. Whether you're looking to lose weight, build muscle, recover from injury or simply improve your overall fitness, our trainers will provide you with the guidance and support you need to succeed.
