@@ -32,8 +32,8 @@ layout: default.hbs
 
 For anyone wishing to train with their trainer at the Training Mews there’s a £85 monthly fee which includes access to an exclusive and private training studio which includes provision of shower facilities, towels, water, tea and coffee. 
 
-Initial payment can be made by Bank transfer, then continued as a direct debt. 1-3 Month Training fees also exist and can be quoted upon request at <a href="mailto:sales@thetrainingmews.co.uk">sales@thetrainingmews.co.uk</a>.
+Initial payment can be made by bank transfer, then continued as a direct debt. Shorter term training fees from 1 to 3 months are also available and can be quoted upon request at sales@thetrainingmews.co.uk.
 
 Once this fee has been paid, all members can purchase our full range of services. These include open gym slots ranging from £5-£10 per hour and 1-2-1 personal training sessions ranging from £80-140 per hour. 
 
-For personal trainers wishing to train clients at the studio please get in touch to discuss admin@thetrainingmews.co.uk
+For personal trainers wishing to train clients at the studio please get in touch to discuss admin@thetrainingmews.co.uk.
