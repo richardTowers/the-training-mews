@@ -22,7 +22,7 @@
   src: url('/fonts/font-COLR.woff2') format('woff2');
 }
 
-h1, header span  {
+h1, nav span  {
   text-transform: uppercase;
   font-family: "LustraTextMedium";
 }
