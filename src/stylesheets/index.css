@@ -1,5 +1,16 @@
 :root {
-    --bs-heading-color: #000;
+  --tm-accent-color-primary-blue: #2e5ba1;
+  --tm-accent-color-primary-blue-rgb: 46,91,161;
+  --tm-accent-color-secondary-blue: #278aa3;
+  --tm-accent-color-secondary-blue-rgb: 39,138,163;
+  --tm-accent-color-teal: #23bab9;
+  --tm-accent-color-green: #0cad88;
+
+  --bs-heading-color: #000;
+  --bs-link-color: var(--tm-accent-color-primary-blue);
+  --bs-link-color-rgb: var(--tm-accent-color-primary-blue-rgb);
+  --bs-link-hover-color: var(--tm-accent-color-secondary-blue);
+  --bs-link-hover-color-rgb: var(--tm-accent-color-secondary-blue-rgb);
 }
 /* Fonts */
 /**
