@@ -12,14 +12,16 @@ layout: default.hbs
 
 ## About us
 
-Welcome to The Training Mews, a new boutique personal training studio located in the heart of Kensington, London
+Welcome to The Training Mews, a personal training studio located in the heart of Kensington, London.
 
-We pride ourselves on offering exceptional personal training with the highest of quality gym equipment to a select group of clients. In addition to allowing high level personal trainers to rent the extremely exclusive and private space with their clients.
+We pride ourselves on offering exceptional personal training with high quality gym equipment to a select group of clients.
 
-We created this space to meet the ever-growing demand for a space where personal trainers can train their clients which is of a high standard.
+The founding trainers, Paul Bowman and Lawrence Xavier Davis are friendly, qualified and experienced professionals, dedicated to helping you achieve your fitness goals.
 
-The founding trainers Paul Bowman and Lawrence Xavier Davis are highly qualified and experienced professionals who are dedicated to helping you achieve your fitness goals.
+We created this space to meet the growing demand for a space where personal trainers can train their clients privately. We also allow exceptional trainers to rent the studio to train their clients.
 
-They will work with you to create a personalised training plan that is tailored to your needs and fitness level. Whether you're looking to lose weight, build muscle, recover from injury or simply improve your overall fitness, our trainers will provide you with the guidance and support you need to succeed.
+We will work with you to create a personalised training plan that is tailored to your needs and fitness. Whether you're looking to lose weight, build muscle, recover from injury or simply improve your overall fitness, our trainers will provide you with the guidance and support you need to succeed.
 
-If you're a member, you can [book sessions online here](https://www.mindbodyonline.com/explore/locations/the-training-mews). If you're interested in becoming a member, you can contact us at sales@thetrainingmews.co.uk.
+If you're interested in becoming a member, you can learn more about what the studio has to offer and our fees -  contact us at [sales@thetrainingmews.co.uk](sales@thetrainingmews.co.uk).
+
+Once you're a member, you can [book sessions online](https://www.mindbodyonline.com/explore/locations/the-training-mews).
