@@ -22,4 +22,4 @@ The founding trainers Paul Bowman and Lawrence Xavier Davis are highly qualified
 
 They will work with you to create a personalised training plan that is tailored to your needs and fitness level. Whether you're looking to lose weight, build muscle, recover from injury or simply improve your overall fitness, our trainers will provide you with the guidance and support you need to succeed.
 
-If you're a member, you can [book sessions online here](https://www.mindbodyonline.com/explore/locations/the-training-mews). If you're interested in becoming a member, you can [learn more about our fees](/fees.html) and contact us at sales@thetrainingmews.co.uk.
+If you're a member, you can [book sessions online here](https://www.mindbodyonline.com/explore/locations/the-training-mews). If you're interested in becoming a member, you can contact us at sales@thetrainingmews.co.uk.
