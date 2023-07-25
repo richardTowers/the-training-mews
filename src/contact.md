@@ -7,7 +7,7 @@ layout: default.hbs
 
 ## Contact
 
-For any questions about finding a trainer to train with, get in touch admin@thetrainingmews.co.uk.
+For any questions, get in touch via admin@thetrainingmews.co.uk or WhatsApp us on <a href="tel:07822 012 948">07822 012 948</a>.
 
 ## Where to find us
 
