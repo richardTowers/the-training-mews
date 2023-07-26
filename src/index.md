@@ -1,6 +1,7 @@
 ---
 title: The Training Mews
 layout: default.hbs
+id: home
 ---
 
 <div class="px-4 py-5 mb-5 text-center homepage-background-image">

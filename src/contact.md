@@ -1,6 +1,7 @@
 ---
 title: The Training Mews - Contact
 layout: default.hbs
+id: contact
 ---
 
 <div class="mb-5"></div>

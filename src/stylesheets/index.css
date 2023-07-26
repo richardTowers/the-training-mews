@@ -66,3 +66,7 @@ h2 {
     font-family: 'LustraTextMedium';
     text-transform: uppercase;
 }
+
+.nav-link.active {
+  border-bottom: 2px solid var(--bs-nav-link-color);
+}

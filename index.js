@@ -16,6 +16,12 @@ Metalsmith(__dirname)
         canonicalUrl: 'https://www.thetrainingmews.co.uk',
     })
 
+    .use(files =>
+        Object.values(files)
+            .filter(f => f.id)
+            .forEach(f => f.active = { [f.id]: true })
+    )
+
     .use(fingerprint({ pattern: 'stylesheets/index.css' }))
 
     // Use @metalsmith/markdown to convert
