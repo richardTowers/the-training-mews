@@ -18,21 +18,25 @@
  *
  * © 2023 MyFonts Inc. */
 @font-face {
-  font-family: "LustraTextMedium";
+  font-family: "LustraTextMediumColr";
   src: url('/fonts/font-COLR.woff2') format('woff2');
+}
+@font-face {
+  font-family: "LustraTextMedium";
+  src: url('/fonts/font.woff2') format('woff2');
 }
 
 h1, header .company-name  {
   text-transform: uppercase;
-  font-family: "LustraTextMedium";
+  font-family: "LustraTextMediumColr";
 }
 
 h2 {
-  font-family: "LustraTextMedium";
+  font-family: "LustraTextMediumColr";
 }
 
 .pricing-card-title {
-  font-family: "LustraTextMedium";
+  font-family: "LustraTextMediumColr";
 }
 
 .homepage-background-image {
@@ -58,6 +62,7 @@ h2 {
     position: relative;
     color: var(--bs-light);
     font-size: 3rem;
-    font-weight: bold;
     line-height: 3;
+    font-family: 'LustraTextMedium';
+    text-transform: uppercase;
 }
