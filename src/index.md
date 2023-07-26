@@ -5,7 +5,7 @@ layout: default.hbs
 
 <div class="px-4 py-5 mb-5 text-center homepage-background-image">
   <div class="homepage-background-image-content">
-    <img class="d-block mx-auto mb-4" src="/images/the-training-mews-300x300.png" alt="" width="150" height="150">
+    <img class="d-block mx-auto mb-4" src="/images/logo.svg" alt="" width="150" height="150">
     <h1 class="display-5">The Training Mews</h1>
   </div>
 </div>

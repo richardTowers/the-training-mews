@@ -1,0 +1,86 @@
+<svg viewBox="0 0 360 360" xmlns="http://www.w3.org/2000/svg">
+  <style>
+  svg {
+    --logo-background-blue: rgb(46, 91, 161);
+    stroke-width: 0;
+    fill: black;
+    /* Paint fill after stroke to avoid stroke eating into the paths */
+    paint-order: stroke fill;
+  }
+  .background {
+    display: none;
+  }
+  .t-hat-left {
+    fill: var(--logo-background-blue);
+  }
+  .t-hat-right {
+    fill: var(--logo-background-blue);
+  }
+  .circle-right {
+    fill: var(--logo-background-blue);
+  }
+  .circle-bottom {
+    fill: var(--logo-background-blue);
+  }
+  .circle-left {
+    fill: var(--logo-background-blue);
+  }
+  </style>
+
+  <path class="background" d="M0 0 0 360 360 360 360 0z" />
+
+  <path class="circle circle-top" d="
+    M 56 51
+    A 180 180 0 0 1 304 51
+    L 290 58
+    A 165 165 0 0 0 70 58
+    Z
+    "/>
+  <path class="circle circle-left" d="
+    M 29 83
+    A 180 180 0 0 0 44 297
+    L 44 273
+    A 165 165 0 0 1 42 90
+    Z" />
+  <path class="circle circle-bottom" d="
+    M 86 332
+    A 180 180 0 0 0 275 332
+    L 275 316
+    A 165 165 0 0 1 86 315
+    Z" />
+  <path class="circle circle-right" d="
+    M 316 297
+    A 180 180 0 0 0 331 84
+    L 319 90
+    A 165 165 0 0 1 316 274
+    Z" />
+
+<path class="t-hat t-hat-left" d="M180 150 38 79 23 45 207 136z" />
+<path class="t-hat t-hat-right" d="M215 132 189 119 337 44 323 78z" />
+
+<path class="m-arch m-arch-right" d="
+    M176 327
+    151 303
+    151 173
+    307 95
+    307 324
+    283 347
+    283 136
+    176 189
+    Z" />
+<path class="m-arch m-arch-drop" d="
+    M 184 326
+    184 194
+    209 181
+    209 303
+    Z" />
+<path class="m-arch m-arch-left" d="
+    M 77 346
+    77 135
+    144 167
+    171 154
+    53 95
+    53 322
+    Z" />
+
+</svg>
