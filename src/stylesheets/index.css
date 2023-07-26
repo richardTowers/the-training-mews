@@ -22,7 +22,7 @@
   src: url('/fonts/font-COLR.woff2') format('woff2');
 }
 
-h1, header span  {
+h1, header .company-name  {
   text-transform: uppercase;
   font-family: "LustraTextMedium";
 }
@@ -41,9 +41,10 @@ h2 {
     background-repeat: no-repeat;
     background-position: 50% 25%;
     background-size: cover;
+    min-height: 65vh;
 }
 .homepage-background-image::before {
-    background: linear-gradient(transparent, white);
+    background: rgba(0,0,0, 0.4);
     content: ' ';
     display: block;
     position: absolute;
@@ -55,4 +56,8 @@ h2 {
 }
 .homepage-background-image-content {
     position: relative;
+    color: var(--bs-light);
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 3;
 }

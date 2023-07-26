@@ -5,10 +5,13 @@ layout: default.hbs
 
 <div class="px-4 py-5 mb-5 text-center homepage-background-image">
   <div class="homepage-background-image-content">
-    <img class="d-block mx-auto mb-4" src="/images/logo.svg" alt="" width="150" height="150">
-    <h1 class="display-5">The Training Mews</h1>
+    <p>Strength</p>
+    <p>Mobility</p>
+    <p>Health</p>
   </div>
 </div>
+
+<div class="container">
 
 ## About us
 
@@ -25,3 +28,5 @@ We will work with you to create a personalised training plan that is tailored to
 If you're interested in becoming a member, you can learn more about what the studio has to offer and our fees -  contact us at [sales@thetrainingmews.co.uk](sales@thetrainingmews.co.uk).
 
 Once you're a member, you can [book sessions online](https://www.mindbodyonline.com/explore/locations/the-training-mews).
+
+</div>

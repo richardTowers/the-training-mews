@@ -5,6 +5,8 @@ layout: default.hbs
 
 <div class="mb-5"></div>
 
+<div class="container">
+
 ## Contact
 
 For any questions, get in touch via admin@thetrainingmews.co.uk or WhatsApp us on <a href="tel:07822 012 948">07822 012 948</a>.
@@ -38,4 +40,6 @@ We’re located a 3 minute walk from Gloucester Road Station.
     src="https://www.google.com/maps/embed/v1/streetview?key=AIzaSyABxpmDXx3wS8bxbwzIIcvQRBZkIjMi9IE&location=51.49395795930201,-0.18638532456649565"
     allowfullscreen>
   </iframe>
+</div>
+
 </div>

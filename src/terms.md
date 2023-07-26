@@ -5,6 +5,8 @@ layout: default.hbs
 
 <div class="mb-5"></div>
 
+<div class="container">
+
 ## Terms and Conditions
 
 This Site is owned and operated by The Training Mews Ltd.  Registered in England 14678953
@@ -46,3 +48,5 @@ Please read these terms and conditions carefully before using our gym space rent
    1. We do not use cookies or any other forms of tracking on www.thetrainingmews.co.uk
 1. Modifications
    1. We reserve the right to modify or amend these terms and conditions at any time. Any changes will be effective immediately upon posting on our website or notifying clients and trainers through other reasonable means.
+
+</div>
