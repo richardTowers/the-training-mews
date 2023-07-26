@@ -1,7 +1,8 @@
 // Get our requirements, installed by npm
 const Metalsmith  = require('metalsmith'),
     markdown    = require('@metalsmith/markdown'),
-    layouts     = require('@metalsmith/layouts');
+    layouts     = require('@metalsmith/layouts'),
+    fingerprint = require('metalsmith-fingerprint');
 
 // Run Metalsmith in the current directory.
 // When the .build() method runs, this reads
@@ -14,6 +15,8 @@ Metalsmith(__dirname)
         keywords: 'The Training Mews, gym, personal training, Kensington, London',
         canonicalUrl: 'https://www.thetrainingmews.co.uk',
     })
+
+    .use(fingerprint({ pattern: 'stylesheets/index.css' }))
 
     // Use @metalsmith/markdown to convert
     // our source files' content from markdown
