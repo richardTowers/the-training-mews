@@ -48,7 +48,7 @@ h2 {
     min-height: 65vh;
 }
 .homepage-background-image::before {
-    background: rgba(0,0,0, 0.4);
+    background: rgba(0,0,0, 0.2);
     content: ' ';
     display: block;
     position: absolute;
