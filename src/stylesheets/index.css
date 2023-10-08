@@ -70,3 +70,8 @@ h2 {
 .nav-link.active {
   border-bottom: 2px solid var(--bs-nav-link-color);
 }
+
+.side-image {
+  max-width: 100%;
+  height: auto;
+}
