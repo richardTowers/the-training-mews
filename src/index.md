@@ -26,7 +26,7 @@ We created this space to meet the growing demand for a space where personal trai
 
 We will work with you to create a personalised training plan that is tailored to your needs and fitness. Whether you're looking to lose weight, build muscle, recover from injury or simply improve your overall fitness, our trainers will provide you with the guidance and support you need to succeed.
 
-If you're interested in becoming a member, you can learn more about what the studio has to offer and our fees -  contact us at [sales@thetrainingmews.co.uk](sales@thetrainingmews.co.uk).
+If you're interested in becoming a member, you can learn more about what the studio has to offer and our fees -  contact us at [sales@thetrainingmews.co.uk](mailto:sales@thetrainingmews.co.uk).
 
 Once you're a member, you can [book sessions online](https://www.mindbodyonline.com/explore/locations/the-training-mews).
 
