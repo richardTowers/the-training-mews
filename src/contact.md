@@ -12,6 +12,8 @@ id: contact
 
 For any questions, get in touch via admin@thetrainingmews.co.uk or WhatsApp us on <a href="tel:07822 012 948">07822 012 948</a>.
 
+Members can [book sessions online](https://www.mindbodyonline.com/explore/locations/the-training-mews).
+
 ## Where to find us
 
 The Training Mews<br>
