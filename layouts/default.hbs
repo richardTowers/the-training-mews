@@ -27,14 +27,25 @@
     <header class="container py-3 border-bottom">
       <div class="align-items-center mb-3 mb-md-0 me-md-auto">
         <img class="d-block mx-auto mb-4" src="/images/logo.svg" alt="The Training Mews Logo" width="100" height="100">
-        <div class="company-name text-center display-5">The Training Mews</div>
       </div>
 
-      <ul class="nav justify-content-center">
-        <li class="nav-item"><a href="/" class="nav-link {{#if active.home}}active{{/if}}">Home</a></li>
-        <li class="nav-item"><a href="/strength-and-conditioning.html" class="nav-link {{#if active.strength-and-conditioning}}active{{/if}}">Strength and conditioning</a></li>
-        <li class="nav-item"><a href="/contact.html" class="nav-link {{#if active.contact}}active{{/if}}">Contact</a></li>
-      </ul>
+      <nav class="navbar navbar-expand-md d-block">
+        <div class="container-fluid justify-content-center">
+          <div class="navbar-brand">
+            <div class="company-name text-center display-6">The Training Mews</div>
+          </div>
+          <button class="navbar-toggler mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        </div>
+        <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+          <ul class="nav justify-content-center">
+            <li class="nav-item"><a href="/" class="nav-link {{#if active.home}}active{{/if}}">Home</a></li>
+            <li class="nav-item"><a href="/strength-and-conditioning.html" class="nav-link {{#if active.strength-and-conditioning}}active{{/if}}">Strength and conditioning</a></li>
+            <li class="nav-item"><a href="/contact.html" class="nav-link {{#if active.contact}}active{{/if}}">Contact</a></li>
+          </ul>
+        </div>
+      </nav>
     </header> 
     <main>
       {{{ contents }}}
